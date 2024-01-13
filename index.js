@@ -25,5 +25,4 @@ function classificarNivelHeroi(nome, xp) {
 const nomeDoHeroi = "Angus";
 const xpDoHeroi = 7500;
 
-classificarNivelHeroi(nomeDoHeroi, xpDoHeroi);
-
+console.log(classificarNivelHeroi(nomeDoHeroi, xpDoHeroi));
